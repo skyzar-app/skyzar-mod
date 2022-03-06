@@ -1,0 +1,9 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "app.skyzar.skyzarmod.mixins",
+    "refmap": "mixins.skyzarmod.refmap.json",
+    "mixins": [
+        "MixinMinecraft"
+    ],
+    "verbose": true
+}
